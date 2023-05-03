@@ -1,6 +1,6 @@
 # CRUD OPERATION DEMO -- NODE JS -- EXPRESS JS
 
-Build a Restful CRUD API for a simple Note-Taking application using Node.js, Express and MongoDB.
+Build a Restful CRUD API for a simple user crud application using Node.js, Express and MongoDB.
 
 ## Steps to Setup
 
